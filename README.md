@@ -13,4 +13,5 @@ I enjoy creative problem solving and getting exposure to challenging embedded sy
 - 🧩 Git
 
 ## Contact
+- Ali.Rostami.72@gmail.com
 - [@Ali Rostami](https://www.linkedin.com/in/ali-rostami-gohari/) on Linkedin
