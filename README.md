@@ -14,4 +14,5 @@ I enjoy creative problem solving and getting exposure to challenging embedded sy
 
 ## Contact
 - Ali.Rostami.72@gmail.com
+- Digilogist(https://digilogist.ir/)
 - [@Ali Rostami](https://www.linkedin.com/in/ali-rostami-gohari/) on Linkedin
