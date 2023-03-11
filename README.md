@@ -2,7 +2,7 @@
 I'm Ali, an Embedded Systems Engineer with 7+ years of experience in the industry. 
 I enjoy creative problem solving and getting exposure to challenging embedded system projects
 
-- 👥 Head of R&D at [Parsian Medical Co.](https://parsianmedical.com/)
+- 👥 Embedded System Engineer at [OQmented GmbH](https://oqmented.com/)
 
 ## Skills
 - 👨‍💻 Embedded C, C++/QT
