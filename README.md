@@ -7,7 +7,7 @@ I enjoy creative problem solving and getting exposure to challenging embedded sy
 ## Skills
 - 👨‍💻 Embedded C, C++/QT
 - 📱 STM32F0/F1/F4/F7/H7 STM8
-- 🏗️ TDD, Ceedling, Unity
+- 🏗️ TDD, CppUTest, Ceedling, Unity
 - 🚀 FreeRTOS, LVGL
 - 🧰 Altium Designer
 - 🧩 Git
