@@ -1,6 +1,6 @@
 ## Hey! 👋
-I'm Ali, an Embedded Systems Engineer with 7+ years of experience in the industry. 
-I enjoy creative problem solving and getting exposure to challenging embedded system projects
+I'm Ali, an Embedded Systems Engineer with more than 9 years of industry experience.
+I enjoy creative problem-solving and getting exposure to challenging embedded system projects.
 
 - 👥 Embedded System Engineer at [OQmented GmbH](https://oqmented.com/)
 
